@@ -31,7 +31,7 @@ export const InfoContainer = styled.div`
 export const ImgContainer = styled.div`
     border: 2px solid #e2e2e2;
     background-size: 250px 250px;
-    background-image: url('https://media.licdn.com/dms/image/D4D03AQHgzy_43enw7g/profile-displayphoto-shrink_800_800/0/1675396201732?e=1681344000&v=beta&t=tHEoRXowlEl6ZsHYjfb8LNvjy2jq-RM9Iml6meQlX4Q');
+    background-image: url('https://media.licdn.com/dms/image/D4D03AQHgzy_43enw7g/profile-displayphoto-shrink_800_800/0/1675396201732?e=1686787200&v=beta&t=j9ITHnq4-PhWO3tsn70RdgUG4Qv9ykvKTsENfm0BMss');
     border-radius: 50%;
     color: white;
     display: flex;
